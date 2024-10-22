@@ -1,0 +1,22 @@
+pytesseract==0.3.8 
+pillow 
+sqlalchemy
+psycopg2-binary
+# tesseract-ocr==4.1.1
+setuptools
+google-api-python-client
+pymongo
+pymysql
+toml
+isodate
+plotly
+streamlit
+# psycopg2==2.9.9
+python-dotenv
+notebook
+pandas
+numpy
+seaborn
+scikit-learn
+streamlit_option_menu
+geopy
